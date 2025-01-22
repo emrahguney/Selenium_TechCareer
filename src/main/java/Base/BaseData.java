@@ -2,8 +2,8 @@ package Base;
 
 public class BaseData {
 
-    public String email = "testcareer1@hotmail.com";
-    public String password = "Test1" ;
+    public String email = "testcareer12@hotmail.com";
+    public String password = "Test12" ;
     public String url = "https://ecommerce-playground.lambdatest.io/";
 
     public String firstName = "TestFirstName";
